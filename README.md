@@ -39,9 +39,6 @@ The Centralized Judiciary System is a web-based application designed to manage l
 
 ![AddCity](screenshots/addCity.png)
 
-
-
-
 ## How to Run
 
 1. Import project into Eclipse
