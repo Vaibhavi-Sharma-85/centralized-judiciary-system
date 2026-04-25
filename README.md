@@ -30,14 +30,14 @@ The Centralized Judiciary System is a web-based application designed to manage l
 ## Screenshots
 ### User Dashboard
 
-![Index](index.png)
+![Index](index.PNG)
 ### Add Case
 
-![AddCase](addCase.png)
+![AddCase](addCase.PNG)
 
 ### Add City
 
-![AddCity](addCity.png)
+![AddCity](addCity.PNG)
 
 ## How to Run
 
