@@ -28,26 +28,19 @@ The Centralized Judiciary System is a web-based application designed to manage l
 * Structured and responsive UI
 
 ## Screenshots
-
-### Login Page
-
-![Login](screenshots/login.png)
-
-### Admin Dashboard
-
-![Admin](screenshots/admin-dashboard.png)
-
 ### User Dashboard
 
-![User](screenshots/user-dashboard.png)
+![Index](screenshots/index.png)
+### Add Case
 
-### Case Page
+![AddCase](screenshots/addCase.png)
 
-![Case](screenshots/case-page.png)
+### Add City
 
-### Form Page
+![AddCity](screenshots/addCity.png)
 
-![Form](screenshots/form-page.png)
+
+
 
 ## How to Run
 
